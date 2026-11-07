@@ -34,7 +34,7 @@ Permite:
 ## Repositorio
 
 ```text
-https://github.com/SebastianMoralesU/EJE_3_FESTIVALVALLENATO.git
+https://github.com/SebastianMoralesU/EJE-3_FESTIVALVALLENATO
 ```
 
 ---
@@ -44,7 +44,7 @@ https://github.com/SebastianMoralesU/EJE_3_FESTIVALVALLENATO.git
 ### Clonar el repositorio
 
 ```powershell
-git clone https://github.com/SebastianMoralesU/EJE_3_FESTIVALVALLENATO.git
+https://github.com/SebastianMoralesU/EJE-3_FESTIVALVALLENATO
 ```
 
 ### Ingresar al proyecto
