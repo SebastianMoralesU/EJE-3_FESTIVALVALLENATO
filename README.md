@@ -43,8 +43,7 @@ https://github.com/SebastianMoralesU/EJE-3_FESTIVALVALLENATO
 
 ### Clonar el repositorio
 
-```
-git clone https://github.com/SebastianMoralesU/EJE-3_FESTIVALVALLENATO.git
+
 ```
 
 ### Ingresar al proyecto
